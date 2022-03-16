@@ -35,7 +35,8 @@ const About = () => (
     >
       <Box width={['100%', null, '50%']}>
         <Text fontSize='xl' mb={5}>
-        Hey there, my name is Shailendra kumar and I graduated with a Bachelor's degree in art from Chhatrapati Shahu Ji Maharaj University, Kanpur in 2020. I recently joined Masai School 30 week full-stack web development programe 
+        Hey there, my name is Shailendra kumar and I graduated with a Bachelor's degree in art from Chhatrapati Shahu Ji Maharaj University, Kanpur in 2020.
+         I recently joined Masai School 30 week full-stack web development programe 
         </Text>
         <Text fontSize='xl' mb={5}>
           I am an Full Stack developer but specially in front end, I work primarily with HTML, CSS
