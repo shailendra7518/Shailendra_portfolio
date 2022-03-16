@@ -18,7 +18,7 @@ import { nav } from '../content/navigation-cards';
 const Home = () => (
   <AppNavigation width='full' maxWidth='1280px' mx='auto'>
     <Head>
-      <title>Ryan Le's Personal Portfolio</title>
+      <title>Shailendra's Personal Portfolio</title>
       <meta
         name='description'
         content='Looking to fill a role on your software development team? Look no further - learn why you consider hiring me, Ryan Le.'
@@ -38,15 +38,15 @@ const Home = () => (
           mb={10}
           boxShadow='lg'
         />
-        <Heading size='2xl'>Ryan Le</Heading>
-        <Heading size='lg' mt='10px'>Software Engineer. Front-End Web Developer.</Heading>
+        <Heading size='2xl'>Shailendra Kumar</Heading>
+        <Heading size='lg' mt='10px'>Full Stack Web Developer || MERN Stack.</Heading>
       </Box>
     </SlideFade>
     <Box mt={10}>
       <Text fontSize='xl'>
-        I rebuilt this online portfolio using the Chakra UI component library and React.js after
-        spending nearly a year in industry sharpening my front-end development skills. I've learned
-        a lot over the last year, and I wanted my new portfolio to reflect that. Check out the links
+        I built this online portfolio using the Chakra UI component library and React.js after
+        spending 4-5 month  in Masai school sharpening my front-end development skills. I've learned
+        a lot over the 5 month , and I wanted my new portfolio to reflect that. Check out the links
         below to learn more about what makes me a great addition to your development team.
       </Text>
 
