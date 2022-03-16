@@ -14,7 +14,7 @@ import SocialMedia from '../components/SocialMedia';
 import { socials } from '../content/social-media';
 
 // Utilities
-import { v4 as uuid } from 'uuid'; // eslint-disable-line
+
 
 const Contact = () => (
   <AppNavigation width='full' maxWidth='1280px' mx='auto'>

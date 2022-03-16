@@ -7,7 +7,7 @@ import WorkExperience from '../components/Experience/WorkExperience';
 import { experienceContent } from '../content/experience';
 
 // Utilities
-import { v4 as uuid } from 'uuid'; // eslint-disable-line
+
 
 const Experience = () => (
   <AppNavigation width='full' maxWidth='1280px' mx='auto'>

@@ -18,7 +18,7 @@ import AppNavigation from '../components/Navigation/AppNavigation';
 import SocialMedia from '../components/SocialMedia';
 
 // Utilities
-import { v4 as uuid } from 'uuid'; // eslint-disable-line
+// eslint-disable-line
 
 // Content
 import { socials } from '../content/social-media';

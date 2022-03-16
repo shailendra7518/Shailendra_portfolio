@@ -4,7 +4,7 @@ import AppNavigation from '../components/Navigation/AppNavigation';
 import ProjectGroup from '../components/Projects/ProjectGroup';
 
 // Utilities
-import { v4 as uuid } from 'uuid'; // eslint-disable-line
+
 
 // Content
 import { projects } from '../content/projects/projects';
