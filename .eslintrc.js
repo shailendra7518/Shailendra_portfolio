@@ -19,17 +19,15 @@ module.exports = {
   ],
   rules: {
     // we only want single quotes
-    quotes: ['error', 'single'],
+    
+    quotes: "off",
     // we want to force semicolons
-    semi: ['error', 'always'],
+    semi: 'off',
     // we use 2 spaces to indent our code
-    indent: ['error', 2],
+    indent: "off",
     // we want to avoid useless spaces
-    'no-multi-spaces': ['error'],
-    'jsx-quotes': [
-      2,
-      'prefer-single',
-    ],
+    'no-multi-spaces': 'off',
+    'jsx-quotes': 'off',
     'react/prop-types': 'off',
     'import/prefer-default-export': 'off',
     'react/no-unescaped-entities': 'off',
@@ -37,5 +35,8 @@ module.exports = {
     'react/jsx-props-no-spreading': 'off',
     'react/jsx-filename-extension': 'off',
     'import/no-extraneous-dependencies': 'off',
+    "indent": "off",
+    "react/jsx-indent": "off",
+    "react/jsx-indent-props": "off"
   },
 };
